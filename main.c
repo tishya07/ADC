@@ -1,12 +1,3 @@
-/*
- * ECE 153B
- *
- * Name(s): Tishya Chauhan, Hannah Walker
- * Section: Wednesday, Tuesday
- * Lab: 5A
- */
-
-
 #include "ADC.h"
 #include "PWM.h"
 #include "SysClock.h"
